@@ -7,13 +7,9 @@ Refda03/Refda03 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 Perkenalkan nama saya **Mohamad Rehza Efda**.\
-
 Saya seorang **Mahasiswa Informatika** di [UMM Malang](https://www.umm.ac.id/).\
-
 Saya pernah mengikuti beberapa Course di [Dicoding](https://www.dicoding.com/).\
-
 Saat Ini masih Menempuh Perkuliahan dan saya harap bisa lulus tepat waktu!!
-
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/moh-rehza-286173264/) ku ya.
 
 
