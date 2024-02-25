@@ -1,21 +1,31 @@
-- 👋 Hi, I’m @Refda03
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Engineering informatics
+# Hi there, I'm Mohamad Rehza Efda! 👋
 
-<!---
-Refda03/Refda03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Perkenalkan nama saya **Mohamad Rehza Efda**.\
-Saya seorang **Mahasiswa Informatika** di [UMM Malang](https://www.umm.ac.id/).\
-Saya pernah mengikuti beberapa Course di [Dicoding](https://www.dicoding.com/).\
-Saat Ini masih Menempuh Perkuliahan dan saya harap bisa lulus tepat waktu!!
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mrehzaefda/) ku ya.
+👨‍💻 About Me:
+- 🎓 I'm currently a student majoring in Informatics Engineering at [University of Muhammadiyah Malang (UMM)](https://www.umm.ac.id/).
+- 💼 I have participated in various courses on [Dicoding](https://www.dicoding.com/).
+- 🌱 I’m currently focusing on my studies and learning software development.
 
+### 🛠️ Technologies & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-<p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Refda03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Refda03&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+### 🌟 Frameworks & Libraries:
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-6200EE?style=for-the-badge&logo=android&logoColor=white)
+
+### 📫 Connect with Me:
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mrehzaefda/)!
+
+Let's connect and learn together!
